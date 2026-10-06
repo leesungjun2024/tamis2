@@ -355,7 +355,7 @@ required
 type="submit"
 style={{ padding: '10px', background: '#0f172a', color: '#fff', border: 'none', borderRadius: '6px', cursor: 'pointer', fontWeight: 'bold', fontSize: '13px' }}
 >
-실시간 공유하기 🚀
+실시간 공유하기 🚀 
 </button>
 </form>
 </div>
