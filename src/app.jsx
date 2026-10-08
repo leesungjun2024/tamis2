@@ -8,7 +8,7 @@ const [isSequentialPlaying, setIsSequentialPlaying] = useState(false);
 const [currentTime, setCurrentTime] = useState(0);
 const [duration, setDuration] = useState(0);
 
-// 실시간 동기화되는 댓글 목록
+// 실시간 동기화되는 댓글 목록 
 const [comments, setComments] = useState([]);
 const [newCommentText, setNewCommentText] = useState('');
 const [authorName, setAuthorName] = useState('팀원');
