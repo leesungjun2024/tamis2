@@ -1588,7 +1588,7 @@ export default function App() {
             }
             setActiveTab('studio');
           }} style={{ padding: '6px 10px', background: activeTab === 'studio' ? '#4f46e5' : '#e2e8f0', color: activeTab === 'studio' ? '#fff' : '#334155', border: 'none', borderRadius: '6px', cursor: 'pointer', fontWeight: 'bold', fontSize: '12px' }}>
-            🎛️ 스튜디오22
+            🎛️ 스튜디오
           </button>
           
           {isAdmin && (
